@@ -14,3 +14,5 @@ Choosing Reports will print the following:
  - Feel free to use any library/framework as necessary.
 
 **_Important: Please write the code as if you are writing production code, possibly with tests._**
+
+**_Disclaimer: The data files in this repo have been extracted from https://openflights.org/data.html. Accenture claims no ownership or responsibility to this data or its usage._**
