@@ -11,7 +11,7 @@ Choosing Reports will print the following:
  - 10 countries with highest number of airports (with count) and countries  with lowest number of airports.
  - Type of runways (as indicated in "surface" column) per country
  - Bonus: Print the top 10 most common runway latitude (indicated in "le_ident" column)
- - Feel free to use any library/framework as necessary.
+ - Feel free to use any library/framework in java as necessary.
 
 **_Important: Please write the code as if you are writing production code, possibly with tests._**
 
